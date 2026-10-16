@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / URL caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# IDE and Editor configurations
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Temporary files & logs
+*.tmp
+*.log
+*.bak
+resp_logs
+Summary report
+"response time logs/resp_logs"
+"response time logs/Summary report"
+
+# Heavy load test binary/logs (keep scripts and graphs)
+response time logs/resp_logs
+response time logs/Summary report
+ServerAgent-2.2.3/
+
+# Office temp files
+~$*
